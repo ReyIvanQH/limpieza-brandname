@@ -1,0 +1,562 @@
+Normalized_GP,Variants,Number_of_Variants,Total_Ship_To_Count,Total_Row_Count,Countries,Any_Normalization_Changed
+GENUINE PARTS,"['GENUINE PARTS', 'GENUINE PARTS COMPANY']",2,20,43,['United States Of America'],True
+PENTAIR,"['PENTAIR', 'Pentair']",2,17,27,['United States Of America'],False
+MOLEX,"['MOLEX INC', 'MOLEX']",2,16,27,['United States Of America'],True
+TENNECO,"['TENNECO', 'Tenneco']",2,12,20,['United States Of America'],False
+ALFA LAVAL,"['ALFA LAVAL', 'ALFA LAVAL INC']",2,11,21,['Sweden'],True
+JOHNSON CONTROLS,"['JOHNSON CONTROLS INC', 'Johnson Controls']",2,10,23,['United States Of America'],True
+KAMAN,"['Kaman Corporation', 'KAMAN']",2,10,19,['United States Of America'],True
+SCHAEFFLER,"['SCHAEFFLER', 'Schaeffler']",2,10,16,['Germany'],False
+CONDO,"['CONDO', 'CONDO INC', 'Condo Inc']",3,9,11,['United States Of America'],True
+MECALUX,"['MECALUX', 'MECALUX SA']",2,9,18,['Spain'],True
+REIFENHAUSER GROUP,"['REIFENHAUSER GROUP', 'REIFENHÄUSER GROUP']",2,9,14,['Germany'],True
+RHI MAGNESITA,"['RHI MAGNESITA', 'RHI Magnesita']",2,9,12,['Austria'],False
+STELLANTIS,"['STELLANTIS', 'Stellantis']",2,9,13,['Netherlands'],False
+ARIEL,"['ARIEL CORPORATION', 'ARIEL CORP', 'Ariel Corporation']",3,8,14,['United States Of America'],True
+EMAG,"['EMAG', 'EMAG LLC']",2,8,13,['Germany'],True
+ROLLER BEARING,"['ROLLER BEARING', 'ROLLER BEARING COMPANY']",2,8,12,['United States Of America'],True
+SUPERIOR DIE TOOL AND MACHINE,"['SUPERIOR DIE TOOL and MACHINE CO', 'SUPERIOR DIE TOOL AND MACHINE', 'Superior Die Tool and Machine', 'Superior Die Tool and Machine Co']",4,7,11,['United States Of America'],True
+TRANSOR FILTER,"['TRANSOR FILTER', 'TRANSOR Filter', 'Transor Filter']",3,7,11,['United States Of America'],False
+CARDINAL SCALE MFG,"['CARDINAL SCALE MFG', 'CARDINAL SCALE MFG CO']",2,7,9,['United States Of America'],True
+VALLEN,"['Vallen', 'VALLEN']",2,7,12,['United States Of America'],False
+WHITE DRIVE MOTORS,"['WHITE DRIVE MOTORS', 'White Drive Motors']",2,7,9,['United States Of America'],False
+YOKOGAWA,"['YOKOGAWA', 'Yokogawa Corporation']",2,7,12,"['Japan', 'United States Of America']",True
+ELECTROMET,"['ELECTROMET', 'ELECTROMET CORP', 'Electromet Corporation']",3,6,7,['United States Of America'],True
+ALUPRESS,"['ALUPRESS', 'Alupress']",2,6,17,['Italy'],False
+BALD EAGLE PRECISION,"['BALD EAGLE PRECISION', 'BALD EAGLE PRECISION LLC']",2,6,9,['United States Of America'],True
+FEINTOOL CINCINNATI,"['FEINTOOL CINCINNATI', 'Feintool Cincinnati Inc']",2,6,10,['United States Of America'],True
+GIACOMINI,"['GIACOMINI SPA', 'GIACOMINI']",2,6,14,['Italy'],True
+HUNAN XINJULI MACHINERY,"['HUNAN XINJULI MACHINERY', 'HUNAN XINJULI MACHINERY CO']",2,6,11,['China'],True
+REMINGTON ARMS,"['REMINGTON ARMS', 'Remington Arms Co Inc']",2,6,9,['United States Of America'],True
+SINGLE SOURCE TECHNOLOGIES,"['SINGLE SOURCE TECHNOLOGIES', 'Single Source Technologies']",2,6,9,['United States Of America'],False
+UNITED ALLOY,"['UNITED ALLOY', 'UNITED ALLOY INC']",2,6,11,['United States Of America'],True
+STANDRIDGE COLOR,"['STANDRIDGE COLOR', 'STANDRIDGE COLOR CORP', 'Standridge Color', 'Standridge Color Corp']",4,5,9,['United States Of America'],True
+BARON CUTTING TOOLS,"['BARON CUTTING TOOLS', 'BARON CUTTING TOOLS INC', 'Baron Cutting Tools Inc']",3,5,9,['United States Of America'],True
+BASIC CARBIDE,"['BASIC CARBIDE', 'Basic Carbide', 'Basic Carbide Corporation']",3,5,12,['United States Of America'],True
+BILMAR CNC,"['BILMAR CNC', 'Bilmar CNC', 'Bilmar CNC Inc']",3,5,10,['United States Of America'],True
+FESTO,"['FESTO', 'FESTO CORPORATION', 'Festo Corp']",3,5,8,"['Germany', 'United States Of America']",True
+GEAR OF AMERICA,"['GEAR COMPANY OF AMERICA INC', 'GEAR CO OF AMERICA', 'Gear Company of America']",3,5,12,['United States Of America'],True
+GT TECHNOLOGIES,"['GT TECHNOLOGIES', 'GT TECHNOLOGIES INC', 'GT Technologies Inc']",3,5,11,['United States Of America'],True
+KERR LAKESIDE,"['KERR LAKESIDE', 'Kerr Lakeside Inc', 'Kerr Lakeside']",3,5,7,['United States Of America'],True
+PAS TECHNOLOGIES,"['PAS TECHNOLOGIES', 'PAS TECHNOLOGIES INC', 'PAS Technologies Inc']",3,5,8,['United States Of America'],True
+ALPENTECH,"['ALPENTECH SAS', 'ALPENTECH']",2,5,6,"['France', 'United States Of America']",True
+BLACKHAWK INDUSTRIAL,"['BLACKHAWK INDUSTRIAL', 'BlackHawk Industrial']",2,5,6,['United States Of America'],False
+BUTECH BLISS,"['BUTECH BLISS', 'BUTECH BLISS INC']",2,5,6,['United States Of America'],True
+CHROME DEPOSIT,"['CHROME DEPOSIT', 'Chrome Deposit Corp']",2,5,8,['United States Of America'],True
+EFD INDUCTION,"['EFD INDUCTION INC', 'EFD INDUCTION']",2,5,9,"['Norway', 'United States Of America']",True
+GEMELS,"['GEMELS SPA', 'GEMELS']",2,5,12,['Italy'],True
+HYDROMAT,"['HYDROMAT', 'Hydromat Inc']",2,5,8,['United States Of America'],True
+INDUSTRIAL TOOLING AND SUPPLY,"['Industrial Tooling and Supply', 'INDUSTRIAL TOOLING AND SUPPLY']",2,5,14,['United States Of America'],False
+LEONARD MACHINE,"['LEONARD MACHINE COMPANY', 'Leonard Machine']",2,5,7,['United States Of America'],True
+MAINSTREAM ENGINEERING,"['MAINSTREAM ENGINEERING', 'Mainstream Engineering']",2,5,10,['United States Of America'],False
+QUALITY TOOLS SERVICES,"['QUALITY TOOLS & SERVICES INC', 'QUALITY TOOLS & SERVICES']",2,5,9,['United States Of America'],True
+SHAMROCK BOLT AND SCREW,"['SHAMROCK BOLT AND SCREW', 'Shamrock Bolt and Screw']",2,5,10,['United States Of America'],False
+WABTEC,"['WABTEC CORPORATION', 'WABTEC']",2,5,11,['United States Of America'],True
+WILSON COMBAT,"['WILSON COMBAT', 'Wilson Combat']",2,5,9,['United States Of America'],False
+WORTHINGTON ENTERPRISES,"['Worthington Enterprises Inc', 'WORTHINGTON ENTERPRISES INC']",2,5,8,['United States Of America'],True
+CBS INDUSTRIAL TOOLING,"['CBS INDUSTRIAL TOOLING', 'CBS INDUSTRIAL TOOLING INC', 'CBS INDUSTRIAL TOOLING LLC']",3,4,7,['United States Of America'],True
+HANGER BOLT AND STUD,"['HANGER BOLT AND STUD CO', 'HANGER BOLT AND STUD CO INC', 'Hanger Bolt and Stud Co']",3,4,5,['United States Of America'],True
+IMPERIAL MACHINE,"['IMPERIAL MACHINE', 'IMPERIAL MACHINE COMPANY', 'Imperial Machine Company']",3,4,8,['United States Of America'],True
+OHIO ORDNANCE WORKS,"['OHIO ORDNANCE WORKS INC', 'OHIO ORDNANCE WORKS', 'Ohio Ordnance Works']",3,4,9,['United States Of America'],True
+PLUM,"['Plum Corporation', 'PLUM', 'PLUM CORPORATION']",3,4,6,['United States Of America'],True
+S AND S TOOLS,"['S and S Tools Inc', 'S AND S TOOLS INC', 'S and S TOOLS INC']",3,4,6,['United States Of America'],True
+ACS GROUP,"['ACS GROUP', 'ACS Group']",2,4,6,['Spain'],False
+ALLOY ENGINEERING,"['ALLOY ENGINEERING', 'Alloy Engineering']",2,4,6,['United States Of America'],False
+ANDERSON PRECISION,"['ANDERSON PRECISION', 'Anderson Precision']",2,4,7,['United States Of America'],False
+BADGER METER,"['BADGER METER', 'BADGER METER INC']",2,4,7,['United States Of America'],True
+BIESSE,"['BIESSE', 'Biesse']",2,4,13,['Italy'],False
+CEDARVILLE UNIVERSITY,"['CEDARVILLE UNIVERSITY', 'Cedarville University']",2,4,4,['United States Of America'],False
+COMMERCIAL FLUID POWER,"['COMMERCIAL FLUID POWER', 'Commercial Fluid Power']",2,4,5,['United States Of America'],False
+CRAIG WIRE PRODUCTS,"['CRAIG WIRE PRODUCTS', 'CRAIG WIRE PRODUCTS LLC']",2,4,11,['United States Of America'],True
+CREATIVE CHEMISTRY SOLUTIONS,"['CREATIVE CHEMISTRY SOLUTIONS', 'CREATIVE CHEMISTRY SOLUTIONS CORPORATION']",2,4,7,"['Canada', 'United States Of America']",True
+DIAMONDBACK BARRELS,"['DIAMONDBACK BARRELS', 'Diamondback Barrels']",2,4,5,['United States Of America'],False
+EVAPCO,"['EVAPCO', 'Evapco Inc']",2,4,6,['United States Of America'],True
+FLASH INDUSTRIAL TECHNOLOGY,"['FLASH INDUSTRIAL TECHNOLOGY', 'Flash Industrial Technology']",2,4,6,['United States Of America'],False
+FUNDICIONES DEL ESTANDA,"['FUNDICIONES DEL ESTANDA', 'FUNDICIONES DEL ESTANDA SA']",2,4,6,"['Hungary', 'Spain']",True
+GALION,"['GALION', 'Galion LLC']",2,4,6,['United States Of America'],True
+KAY MANUFACTURING,"['KAY MANUFACTURING COMPANY', 'KAY MANUFACTURING']",2,4,11,['United States Of America'],True
+KLEIN TOOLS,"['KLEIN TOOLS', 'KLEIN TOOLS INC']",2,4,8,['United States Of America'],True
+MACLEAN POWER SYSTEMS,"['MACLEAN POWER SYSTEMS', 'MacLean Power Systems']",2,4,5,['United States Of America'],False
+MONSTERAS METALL,"['MONSTERAS METALL', 'MÖNSTERÅS METALL']",2,4,6,['Sweden'],True
+NICHIBEI,"['Nichibei', 'NICHIBEI']",2,4,5,['Japan'],False
+NSK,"['NSK', 'NSK CORPORATION']",2,4,14,['Japan'],True
+O M P,"['O M P', 'O.M.P']",2,4,7,['Italy'],True
+ORCHID ORTHOPEDIC SOLUTIONS,"['ORCHID ORTHOPEDIC SOLUTIONS', 'ORCHID ORTHOPEDIC SOLUTIONS LLC']",2,4,7,['United States Of America'],True
+PALL,"['PALL', 'PALL CORPORATION']",2,4,9,"['England', 'United States Of America']",True
+REDOX,"['REDOX', 'REDOX PTY LTD']",2,4,5,['Australia'],True
+RINKER MATERIALS,"['RINKER MATERIALS', 'Rinker Materials']",2,4,7,['United States Of America'],False
+TEAM INDUSTRIES,"['TEAM INDUSTRIES', 'Team Industries']",2,4,8,['United States Of America'],False
+TRIANGLE MACHINE,"['TRIANGLE MACHINE', 'Triangle Machine']",2,4,7,['United States Of America'],False
+VOSS INDUSTRIES,"['VOSS INDUSTRIES', 'Voss Industries']",2,4,6,['United States Of America'],False
+APPLE RUBBER PRODUCTS,"['APPLE RUBBER PRODUCTS INC', 'Apple Rubber Products Inc', 'Apple rubber Products Inc']",3,3,5,['United States Of America'],True
+CARDINAL MANUFACTURING,"['CARDINAL MANUFACTURING', 'CARDINAL MANUFACTURING CO', 'Cardinal Manufacturing Co']",3,3,4,['United States Of America'],True
+FIRST METALS AND PLASTICS,"['FIRST METALS AND PLASTICS', 'FIRST METALS AND PLASTICS INC', 'First Metals and Plastics Inc']",3,3,5,['United States Of America'],True
+HORSCHEL BROTHERS PRECISION,"['HORSCHEL BROTHERS PRECISION', 'HORSCHEL BROTHERS PRECISION LLC', 'Horschel Brothers Precision']",3,3,5,['United States Of America'],True
+JIIC SALES,"['JIIC SALES', 'JIIC Sales', 'JIIC Sales LLC']",3,3,6,['United States Of America'],True
+NESBITT STEAM,"['NESBITT STEAM', 'NESBITT STEAM LLC', 'Nesbitt Steam LLC']",3,3,5,['United States Of America'],True
+OHIO CRANKSHAFT,"['OHIO CRANKSHAFT', 'OHIO CRANKSHAFT COMPANY', 'Ohio Crankshaft Company']",3,3,8,['United States Of America'],True
+PEAK ANALYSIS AUTOMATION,"['PEAK ANALYSIS AUTOMATION', 'Peak Analysis Automation', 'Peak Analysis Automation Inc']",3,3,5,['United States Of America'],True
+RBM MANUFACTURING,"['RBM MANUFACTURING', 'RBM MANUFACTURING INC', 'RBM Manufacturing Inc']",3,3,4,['United States Of America'],True
+RELINE,"['RELINE', 'Reline', 'Reline Inc']",3,3,6,['United States Of America'],True
+SKC,"['SKC', 'SKC Inc', 'Skc Inc']",3,3,5,"['South Korea', 'United States Of America']",True
+SMOLIC MACHINE,"['SMOLIC MACHINE', 'SMOLIC MACHINE COMPANY', 'Smolic Machine Company']",3,3,4,['United States Of America'],True
+TITAN TOOL AND DIE,"['TITAN TOOL AND DIE', 'TITAN TOOL AND DIE INC', 'Titan Tool AND Die Inc']",3,3,5,['United States Of America'],True
+UNITED METAL FABRICATORS,"['UNITED METAL FABRICATORS', 'United Metal Fabricators', 'United Metal Fabricators Inc']",3,3,6,['United States Of America'],True
+A NOBEL EN ZN,"['A NOBEL EN ZN', 'A. NOBEL EN ZN.']",2,3,6,"['Netherlands', 'United States Of America']",True
+AMERICAN HEAT TREATING,"['AMERICAN HEAT TREATING', 'American Heat Treating']",2,3,5,['United States Of America'],False
+ANGSTROM,"['ANGSTROM', 'Angstrom']",2,3,8,['United States Of America'],False
+AUTOMATION TOOL AND DIE,"['AUTOMATION TOOL AND DIE', 'Automation Tool and Die Inc']",2,3,4,['United States Of America'],True
+BALZER,"['BALZER INC', 'BALZER']",2,3,5,['United States Of America'],True
+BEARON,"['Bearon Corporation', 'BEARON']",2,3,5,['United States Of America'],True
+BECKMAN COULTER,"['BECKMAN COULTER INC', 'BECKMAN COULTER']",2,3,6,['United States Of America'],True
+BMG OF KANSAS,"['BMG OF KANSAS', 'BMG of Kansas']",2,3,4,['United States Of America'],False
+BOBCAT,"['BOBCAT COMPANY', 'BOBCAT']",2,3,5,['United States Of America'],True
+BONTAZ CENTRE,"['BONTAZ CENTRE', 'BONTAZ CENTRE SAS']",2,3,4,['France'],True
+BRASSCRAFT MANUFACTURING,"['BRASSCRAFT MANUFACTURING', 'Brasscraft Manufacturing']",2,3,6,['United States Of America'],False
+CAPCO,"['CAPCO', 'Capco Incorporated']",2,3,7,['United States Of America'],True
+CARNEGIE MELLON,"['CARNEGIE MELLON', 'Carnegie Mellon']",2,3,6,['United States Of America'],False
+CHAS SVEC,"['CHAS SVEC', 'CHAS SVEC INC']",2,3,4,['United States Of America'],True
+CHRISTENSEN ARMS,"['CHRISTENSEN ARMS', 'Christensen Arms']",2,3,6,['United States Of America'],False
+CNC PRECISION,"['CNC Precision', 'CNC PRECISION']",2,3,5,['United States Of America'],False
+CONTI,"['CONTI', 'CONTI CORPORATION']",2,3,9,"['Italy', 'United States Of America']",True
+CORRELL,"['CORRELL', 'CORRELL INC']",2,3,7,['United States Of America'],True
+CREATIVE BLOW MOLD TOOLING,"['Creative Blow Mold Tooling', 'CREATIVE BLOW MOLD TOOLING']",2,3,6,['United States Of America'],False
+DADCO,"['DADCO', 'DADCO INC']",2,3,6,['United States Of America'],True
+DAWN INDUSTRIES,"['DAWN INDUSTRIES', 'Dawn Industries']",2,3,4,['United States Of America'],False
+DIVERSIFIED HONING,"['DIVERSIFIED HONING', 'Diversified Honing Inc']",2,3,5,['United States Of America'],True
+DUROBOR GROUP,"['DUROBOR GROUP', 'DUROBOR GROUP SA']",2,3,6,['Belgium'],True
+DYNAMIC ENGINEERING,"['DYNAMIC ENGINEERING', 'Dynamic Engineering Inc']",2,3,6,['United States Of America'],True
+ELYRIA SPRING AND SPECIALTY,"['ELYRIA SPRING AND SPECIALTY', 'Elyria Spring and Specialty Inc']",2,3,4,['United States Of America'],True
+EMC,"['EMC', 'EMC SRL']",2,3,5,"['Italy', 'United States Of America']",True
+ENGINEERING AND CYCLE,"['Engineering and Cycle', 'ENGINEERING AND CYCLE']",2,3,5,['United States Of America'],False
+EURO METAL,"['EURO-METAL SRL', 'EURO METAL SRL']",2,3,6,['Italy'],True
+FABER INDUSTRIE,"['FABER INDUSTRIE', 'FABER INDUSTRIE SPA']",2,3,9,['Italy'],True
+FEDERAL SCREW WORKS,"['FEDERAL SCREW WORKS', 'Federal Screw Works']",2,3,8,['United States Of America'],False
+GALYON MACHINE SHOP,"['GALYON MACHINE SHOP', 'Galyon Machine Shop Inc']",2,3,5,['United States Of America'],True
+GARLOCK SEALING TECHNOLOGIES,"['Garlock Sealing Technologies', 'GARLOCK SEALING TECHNOLOGIES']",2,3,6,['United States Of America'],False
+GENERAL MACHINE PRODUCTS,"['GENERAL MACHINE PRODUCTS', 'General Machine Products']",2,3,4,['United States Of America'],False
+GEZE,"['GEZE', 'GEZE GMBH']",2,3,5,['Germany'],True
+GMF,"['GMF', 'GMF BV']",2,3,5,"['Italy', 'Netherlands']",True
+GREG TERRELL,"['GREG TERRELL', 'Greg Terrell']",2,3,5,['United States Of America'],False
+H AND S PRECISION SCREW PRODUCTS,"['H AND S PRECISION SCREW PRODUCTS', 'H and S Precision Screw Products']",2,3,6,['United States Of America'],False
+HC STARCK,"['HC STARCK', 'HC Starck Inc']",2,3,5,"['Germany', 'United States Of America']",True
+HERDEMAN,"['HERDEMAN CORPORATION', 'Herdeman Corporation']",2,3,6,['United States Of America'],True
+HOLMATRO,"['HOLMATRO', 'HOLMATRO INCORPORATED']",2,3,6,"['Netherlands', 'United States Of America']",True
+HTD MACHINING,"['HTD MACHINING COMPANY', 'HTD MACHINING']",2,3,6,['United States Of America'],True
+HURCO,"['HURCO', 'Hurco']",2,3,5,['United States Of America'],False
+IDEMITSU,"['Idemitsu', 'IDEMITSU']",2,3,4,"['Japan', 'United States Of America']",False
+IMA,"['IMA', 'IMA SPA']",2,3,7,['Italy'],True
+J EXIM,"['J EXIM INC', 'J EXIM']",2,3,6,['United States Of America'],True
+K AND D MACHINE,"['K AND D MACHINE CORPORATION', 'K AND D MACHINE CORP']",2,3,6,['United States Of America'],True
+KEYSTONE PROFILES,"['KEYSTONE PROFILES', 'Keystone Profiles LTD']",2,3,4,['United States Of America'],True
+KOVOLIT,"['KOVOLIT', 'Kovolit']",2,3,4,['Czech Republic'],False
+LAP TECH INDUSTRIES,"['LAP TECH INDUSTRIES', 'Lap Tech Industries Inc']",2,3,4,['United States Of America'],True
+LEETONIA TOOLS,"['LEETONIA TOOLS', 'Leetonia Tools']",2,3,5,['United States Of America'],False
+LONG MACHINE,"['LONG MACHINE', 'LONG MACHINE INC']",2,3,5,['United States Of America'],True
+LS STARRETT,"['LS STARRETT', 'LS STARRETT COMPANY']",2,3,7,['United States Of America'],True
+LUBE TECH,"['Lube Tech', 'LUBE TECH']",2,3,7,['United States Of America'],False
+MAJOR TOOL AND MACHINE,"['MAJOR TOOL AND MACHINE', 'Major Tool and Machine Inc']",2,3,4,['United States Of America'],True
+MEDTRONIC,"['MEDTRONIC', 'MEDTRONIC INC']",2,3,4,"['Ireland', 'United States Of America']",True
+METSCH REFRACTORIES,"['Metsch Refractories Inc', 'METSCH REFRACTORIES INC']",2,3,4,['United States Of America'],True
+MICHAEL HARRIS,"['MICHAEL HARRIS', 'Michael Harris']",2,3,5,['United States Of America'],False
+MONUMENT POWDER COATING,"['MONUMENT POWDER COATING INC', 'MONUMENT POWDER COATING']",2,3,6,['United States Of America'],True
+MYERS PRECISION GRINDING,"['MYERS PRECISION GRINDING', 'MYERS PRECISION GRINDING CO']",2,3,6,['United States Of America'],True
+NATECH,"['NATECH', 'NATECH LIMITED']",2,3,5,"['England', 'Germany']",True
+NEW TECHNOLOGY,"['NEW TECHNOLOGY', 'NEW TECHNOLOGY INC']",2,3,6,['United States Of America'],True
+NORMALIEN,"['NORMALIEN', 'NORMALIEN SPA']",2,3,6,['France'],True
+NOSLER,"['NOSLER', 'NOSLER INC']",2,3,6,['United States Of America'],True
+NOVELIS,"['NOVELIS', 'Novelis Inc']",2,3,6,['United States Of America'],True
+OMEGA PLASTICS,"['OMEGA PLASTICS', 'OMEGA PLASTICS INC']",2,3,5,['United States Of America'],True
+PENN ENGINEERING,"['PENN ENGINEERING', 'Penn Engineering']",2,3,5,['United States Of America'],False
+PERRYMAN,"['PERRYMAN COMPANY', 'PERRYMAN CO']",2,3,5,['United States Of America'],True
+PLASSER AMERICAN,"['PLASSER AMERICAN', 'Plasser American']",2,3,6,['United States Of America'],False
+PRINT DIRECT FOR LESS,"['PRINT DIRECT FOR LESS', 'Print Direct For Less']",2,3,10,['United States Of America'],False
+PROCECO,"['PROCECO', 'PROCECO LTD']",2,3,6,['Canada'],True
+REV C,"['Rev C', 'REV C']",2,3,4,['United States Of America'],False
+RPM,"['RPM', 'RPM SPA']",2,3,8,['United States Of America'],True
+SABIANA,"['SABIANA', 'SABIANA SPA']",2,3,8,['Italy'],True
+SHEFFER,"['SHEFFER CORPORATION', 'SHEFFER']",2,3,4,['United States Of America'],True
+SIAP,"['SIAP', 'SIAP SPA']",2,3,7,['Italy'],True
+SICIT,"['SICIT', 'SICIT SRL']",2,3,8,['Italy'],True
+SIG SAUER,"['Sig Sauer', 'SIG SAUER']",2,3,5,['United States Of America'],False
+SIMEC,"['SIMEC', 'SIMEC SPA']",2,3,8,['Mexico'],True
+SKY INNOVATIONS,"['SKY INNOVATIONS', 'Sky Innovations']",2,3,4,['United States Of America'],False
+SPINOTTI COMPRESSORI,"['SPINOTTI COMPRESSORI', 'SPINOTTI COMPRESSORI SRL']",2,3,8,['Italy'],True
+SPIRAL INGRANAGGI,"['SPIRAL INGRANAGGI', 'SPIRAL INGRANAGGI SRL']",2,3,8,['Italy'],True
+STORED ENERGY CONCEPTS,"['Stored Energy Concepts Inc', 'STORED ENERGY CONCEPTS']",2,3,4,['United States Of America'],True
+SUR SEAL,"['Sur Seal Corporation', 'SUR SEAL CORPORATION']",2,3,5,['United States Of America'],True
+T AND T MACHINE SHOP,"['T AND T MACHINE SHOP', 'T and T Machine Shop']",2,3,4,['United States Of America'],False
+T T TOMORROW TECHNOLOGY,"['T T TOMORROW TECHNOLOGY', 'T.T. TOMORROW TECHNOLOGY SPA']",2,3,6,[],True
+TCN,"['TCN', 'TCN SRL']",2,3,8,['Italy'],True
+TEMPRASUD,"['TEMPRASUD', 'TEMPRASUD SRL']",2,3,8,['France'],True
+TERMOSTAHL,"['TERMOSTAHL', 'TERMOSTAHL SRL']",2,3,8,['Germany'],True
+THE NEW IEM,"['THE NEW IEM', 'THE NEW IEM LLC']",2,3,5,['United States Of America'],True
+TRANCERIA LIGURE,"['TRANCERIA LIGURE', 'TRANCERIA LIGURE SRL']",2,3,8,['Italy'],True
+TRANCERIE EMILIANE,"['TRANCERIE EMILIANE', 'TRANCERIE EMILIANE SPA']",2,3,8,['Italy'],True
+TRATTAMENTI TERMICI,"['TRATTAMENTI TERMICI', 'TRATTAMENTI TERMICI SRL']",2,3,8,['Italy'],True
+TREVISAN,"['TREVISAN', 'TREVISAN SRL']",2,3,8,['Italy'],True
+TURBOTRON,"['Turbotron Inc', 'TURBOTRON']",2,3,4,"['Italy', 'United States Of America']",True
+USA HEAT TREATING,"['USA HEAT TREATING', 'USA HEAT TREATING INC']",2,3,5,['United States Of America'],True
+VALLEY PLATING,"['VALLEY PLATING', 'VALLEY PLATING INC']",2,3,5,['United States Of America'],True
+VALUE TOOL AND ENGINEERING,"['VALUE TOOL AND ENGINEERING', 'VALUE TOOL AND ENGINEERING INC']",2,3,7,['United States Of America'],True
+VAREM,"['VAREM', 'VAREM SPA']",2,3,8,['Italy'],True
+VECA,"['VECA', 'VECA SPA']",2,3,4,['Italy'],True
+VENTURI,"['VENTURI', 'VENTURI GMBH']",2,3,5,"['Argentina', 'Germany']",True
+WMH LATSCH,"['WMH LATSCH', 'WMH LATSCH SRL']",2,3,8,['Germany'],True
+WORLD RESOURCE SOLUTIONS,"['WORLD RESOURCE SOLUTIONS', 'World Resource Solutions Corp']",2,3,5,['United States Of America'],True
+ADVANCED DESIGN CONCEPTS,"['ADVANCED DESIGN CONCEPTS', 'Advanced Design Concepts Inc']",2,2,4,['United States Of America'],True
+AE BLAKE SALES,"['AE BLAKE SALES', 'AE BLAKE SALES LTD']",2,2,4,"['Canada', 'United States Of America']",True
+AEROTECH ENTERPRISE,"['AEROTECH ENTERPRISE', 'Aerotech Enterprise Inc']",2,2,2,['United States Of America'],True
+ALL PRO THREADED PRODUCTS,"['ALL PRO THREADED PRODUCTS', 'All Pro Threaded Products']",2,2,4,['United States Of America'],False
+ALLCAMS MACHINE,"['ALLCAMS MACHINE', 'ALLCAMS MACHINE CO']",2,2,4,['United States Of America'],True
+ALLIANCE TOOL AND EQUIPMENT,"['ALLIANCE TOOL AND EQUIPMENT', 'Alliance Tool AND Equipment Inc']",2,2,3,['United States Of America'],True
+ALPS SOUTH,"['ALPS SOUTH', 'Alps South']",2,2,4,['United States Of America'],False
+AM MACHINE,"['AM MACHINE CO INC', 'AM Machine CO']",2,2,2,['United States Of America'],True
+AMAC ENTERPRISES,"['AMAC ENTERPRISES', 'Amac Enterprises Inc']",2,2,3,['United States Of America'],True
+AMBAC INTERNATIONAL,"['AMBAC INTERNATIONAL CORP', 'Ambac International Corp']",2,2,4,['United States Of America'],True
+AMERICAN ULTRA SPECIALTIES,"['AMERICAN ULTRA SPECIALTIES', 'AMERICAN ULTRA SPECIALTIES INC']",2,2,3,['United States Of America'],True
+AMO INDUSTRIES,"['AMO INDUSTRIES', 'AMO INDUSTRIES INC']",2,2,2,['United States Of America'],True
+AMS BOWFISHING,"['AMS BOWFISHING', 'AMS Bowfishing']",2,2,2,['United States Of America'],False
+AMTRAK BEECH GROVE,"['AMTRAK BEECH GROVE', 'Amtrak Beech Grove']",2,2,4,['United States Of America'],False
+ANREN PRECISION MACHINING,"['ANREN PRECISION MACHINING', 'Anren Precision Machining']",2,2,3,['China'],False
+AQUA CLEAN SYSTEMS,"['AQUA CLEAN SYSTEMS ', 'AQUA CLEAN SYSTEMS PVT LTD']",2,2,5,['India'],True
+ARSEMENT MACHINE AND SUPPLY,"['ARSEMENT MACHINE AND SUPPLY', 'Arsement Machine and Supply']",2,2,4,['United States Of America'],False
+ASB INDUSTRIES,"['ASB INDUSTRIES', 'ASB Industries Inc']",2,2,4,['United States Of America'],True
+ASKO,"['ASKO INC', 'Asko Inc']",2,2,2,['United States Of America'],True
+ATC,"['ATC', 'ATC INC']",2,2,4,['United States Of America'],True
+AUSTIN PRECISION PRODUCTS,"['AUSTIN PRECISION PRODUCTS', 'Austin Precision Products']",2,2,4,['United States Of America'],False
+AUSTRALIAN ROLLFORMING MANUFACTURERS,"['AUSTRALIAN ROLLFORMING MANUFACTURERS', 'AUSTRALIAN ROLLFORMING MANUFACTURERS PTY LTD']",2,2,2,[],True
+AUTOPILOT,"['AUTOPILOT INC', 'AutoPilot Inc']",2,2,4,['United States Of America'],True
+B AND R MACHINE,"['B AND R MACHINE', 'B AND R MACHINE INC']",2,2,4,['United States Of America'],True
+B B AND H TOOL,"['B B AND H TOOL', 'B B AND H Tool Company']",2,2,4,['United States Of America'],True
+BACKERWOODS MANUFACTURING,"['BACKERWOODS MANUFACTURING', 'Backerwoods Manufacturing']",2,2,3,['United States Of America'],False
+BAE SYSTEMS,"['BAE SYSTEMS', 'BAE Systems']",2,2,4,['England'],False
+BANNER METALS GROUP,"['Banner Metals Group', 'Banner Metals Group Inc']",2,2,3,['United States Of America'],True
+BARCO STAMPING,"['BARCO STAMPING', 'BARCO STAMPING CO']",2,2,4,['United States Of America'],True
+BAXTER HEALTHCARE,"['BAXTER HEALTHCARE', 'Baxter Healthcare Corp']",2,2,3,['United States Of America'],True
+BEARINGS SERVICE OF PA,"['BEARINGS SERVICE COMPANY OF PA', 'Bearings Service Company of Pa']",2,2,3,['United States Of America'],True
+BEAVER PETROLEUM,"['BEAVER PETROLEUM COMPANY INC', 'Beaver Petroleum Co']",2,2,3,['United States Of America'],True
+BECKWOOD PRESS,"['BECKWOOD PRESS', 'BECKWOOD PRESS CORP']",2,2,3,['United States Of America'],True
+BELLEVILLE INTERNATIONAL,"['BELLEVILLE INTERNATIONAL', 'Belleville International']",2,2,4,['United States Of America'],False
+BEN HUGHES,"['BEN HUGHES', 'BEN HUGHES LTD']",2,2,2,"['United Kingdom', 'United States Of America']",True
+BESI MACHINING,"['BESI MACHINING', 'Besi Machining']",2,2,4,['United States Of America'],False
+BETTS SPRING,"['BETTS SPRING', 'BETTS SPRING COMPANY']",2,2,4,['United States Of America'],True
+BIG KEVS PERFORMANCE,"['BIG KEVS PERFORMANCE', 'Big Kevs Performance']",2,2,2,['United States Of America'],False
+BILLET INDUSTRIES,"['BILLET INDUSTRIES', 'Billet Industries']",2,2,3,['United States Of America'],False
+BOGUE MACHINE,"['BOGUE MACHINE', 'BOGUE MACHINE COMPANY INC']",2,2,4,"['China', 'United States Of America']",True
+CAL SPRAY,"['CAL SPRAY', 'CAL SPRAY INC']",2,2,3,['United States Of America'],True
+CAPITOL STAMPINGS,"['CAPITOL STAMPINGS', 'Capitol Stampings Corp']",2,2,2,['United States Of America'],True
+CARMEUSE LIME AND STONE,"['CARMEUSE LIME AND STONE', 'CARMEUSE LIME and STONE INC']",2,2,4,['United States Of America'],True
+CARRIER,"['CARRIER', 'CARRIER CORPORATION']",2,2,4,['United States Of America'],True
+CARTERET DIE CASTING,"['CARTERET DIE CASTING', 'Carteret Die Casting Company']",2,2,3,['United States Of America'],True
+CASCADE PATTERN,"['CASCADE PATTERN', 'Cascade Pattern Co']",2,2,2,['United States Of America'],True
+CASTOOL TOOLING SYSTEMS,"['CASTOOL TOOLING SYSTEMS', 'Castool Tooling Systems']",2,2,3,['Canada'],False
+CB DEKORNE,"['CB DeKorne', 'CB Dekorne']",2,2,4,['United States Of America'],False
+CENTRAL SALES AND SERVICE,"['CENTRAL SALES AND SERVICE', 'Central Sales and Service Inc']",2,2,4,['United States Of America'],True
+CHALMERS AND KUBECK,"['CHALMERS AND KUBECK', 'Chalmers and Kubeck']",2,2,2,['United States Of America'],False
+CHENG DING HOICE,"['CHENG DING HOICE CO LTD', 'CHENG DING HOICE CO., LTD.']",2,2,2,['Taiwan'],True
+CHESAPEAKE BURIAL VAULT,"['CHESAPEAKE BURIAL VAULT', 'Chesapeake Burial Vault']",2,2,4,['United States Of America'],False
+CINEX,"['CINEX', 'CINEX INC']",2,2,6,"['Spain', 'United States Of America']",True
+CLARKDIETRICH,"['CLARKDIETRICH', 'ClarkDietrich']",2,2,4,['United States Of America'],False
+CLEAR CREEK SCREW MACHINE,"['CLEAR CREEK SCREW MACHINE', 'Clear Creek Screw Machine Co']",2,2,3,['United States Of America'],True
+CLICK BOND,"['CLICK BOND', 'CLICK BOND INC']",2,2,4,['United States Of America'],True
+CLINTON MACHINE,"['CLINTON MACHINE', 'Clinton Machine Co']",2,2,4,['United States Of America'],True
+CM ENGINEERING,"['CM ENGINEERING', 'CM ENGINEERING INC']",2,2,4,['United States Of America'],True
+CNCPROS INTERNATIONAL,"['CNCPROS INTERNATIONAL', 'CNCPROS International Inc']",2,2,3,['United States Of America'],True
+COMPAX,"['COMPAX', 'Compax Inc']",2,2,3,['United States Of America'],True
+COMPOSIDIE,"['COMPOSIDIE', 'Composidie']",2,2,3,['Italy'],False
+CONNER MACHINE,"['CONNER MACHINE', 'Conner Machine']",2,2,4,['United States Of America'],False
+CORESTAR INTERNATIONAL,"['CORESTAR INTERNATIONAL', 'CoreStar International Corp']",2,2,2,['United States Of America'],True
+CROWN COMPOSITES TOOLING,"['CROWN COMPOSITES TOOLING', 'Crown Composites Tooling LLC']",2,2,3,['United States Of America'],True
+CUSTOM COMPONENTS AND LOGISTICS,"['CUSTOM COMPONENTS AND LOGISTICS', 'Custom Components and Logistics']",2,2,4,['United States Of America'],False
+CUSTOM DESIGN COMPONENTS,"['CUSTOM DESIGN COMPONENTS', 'Custom Design Components']",2,2,3,['United States Of America'],False
+CYPRESS MACHINE SHOP,"['CYPRESS MACHINE SHOP', 'Cypress Machine Shop Inc']",2,2,3,['United States Of America'],True
+D AND F SCREW,"['D AND F SCREW', 'D and F Screw']",2,2,3,['United States Of America'],False
+D AND J MACHINERY,"['D AND J MACHINERY', 'D and J Machinery']",2,2,2,['United States Of America'],False
+D AND N MACHINING,"['D AND N Machining', 'D and N Machining Company']",2,2,3,['United States Of America'],True
+DANVILLE METAL STAMPING,"['DANVILLE METAL STAMPING', 'DANVILLE METAL STAMPING CO']",2,2,4,['United States Of America'],True
+DAUPHIN PRECISION TOOL,"['DAUPHIN PRECISION TOOL', 'DAUPHIN PRECISION TOOL LLC']",2,2,3,['United States Of America'],True
+DECHAPANICH FISHING NET FACTORY,"['DECHAPANICH  FISHING  NET  FACTORY', 'DECHAPANICH FISHING NET FACTORY']",2,2,4,['Thailand'],True
+DEDRICK TOOL AND DIE,"['DEDRICK TOOL AND DIE INC', 'Dedrick Tool and Die Inc']",2,2,2,['United States Of America'],True
+DELFORNO,"['DELFORNO', 'DELFORNO SRL']",2,2,4,['Italy'],True
+DIGITAL MACHINING,"['DIGITAL MACHINING', 'Digital Machining LLC']",2,2,2,['United States Of America'],True
+DIMENSION INDUSTRIES,"['DIMENSION INDUSTRIES', 'Dimension Industries']",2,2,4,['United States Of America'],False
+DIXIE MACHINE SHOP,"['DIXIE MACHINE SHOP', 'Dixie Machine Shop']",2,2,4,['United States Of America'],False
+DOUBLE TAP ENGINEERING,"['DOUBLE TAP ENGINEERING LLC', 'Double Tap Engineering LLC']",2,2,3,['United States Of America'],True
+DOUGLAS AUTOTECH,"['DOUGLAS AUTOTECH CORP', 'Douglas Autotech Corp']",2,2,4,['United States Of America'],True
+DYNAMIC STAMPINGS OF NC,"['DYNAMIC STAMPINGS OF NC', 'DYNAMIC STAMPINGS OF NC INC']",2,2,5,['United States Of America'],True
+EAGLE METALS,"['EAGLE METALS', 'EAGLE METALS COMPANY']",2,2,4,['United States Of America'],True
+EASTHAM FORGE,"['EASTHAM FORGE', 'EASTHAM FORGE INC']",2,2,4,['United States Of America'],True
+EDGE WORKS MANUFACTURING,"['EDGE WORKS MANUFACTURING', 'Edge Works Manufacturing']",2,2,4,['United States Of America'],False
+EDINBORO INDUSTRIES,"['EDINBORO INDUSTRIES', 'Edinboro Industries Inc']",2,2,4,['United States Of America'],True
+ELEMENT MATERIALS TECH,"['ELEMENT MATERIALS TECH', 'Element Materials Tech']",2,2,4,['United States Of America'],False
+ELITE OCTANE,"['ELITE OCTANE LLC', 'ELITE OCTANE, LLC']",2,2,3,['United States Of America'],True
+ELMEC,"['ELMEC', 'ELMEC INC']",2,2,4,['Mexico'],True
+ELMET TECHNOLOGIES,"['ELMET TECHNOLOGIES', 'ELMET TECHNOLOGIES LLC']",2,2,4,['United States Of America'],True
+EMCIEN MACHINING,"['Emcien Machining', 'Emcien Machining Inc']",2,2,4,['United States Of America'],True
+ENDRES MFG,"['ENDRES MFG CO', 'Endres Mfg Co']",2,2,3,['United States Of America'],True
+ENERQUEST SERVICES,"['ENERQUEST SERVICES', 'EnerQuest Services Inc']",2,2,4,['United States Of America'],True
+EQUIPEMENTS INDUSTRIELS IBS,"['EQUIPEMENTS INDUSTRIELS IBS', 'EQUIPEMENTS INDUSTRIELS IBS INC']",2,2,3,['Canada'],True
+EROSION TECHNOLOGIES,"['EROSION TECHNOLOGIES', 'Erosion Technologies']",2,2,4,['United States Of America'],False
+EUCLID HEAT TREATING,"['EUCLID HEAT TREATING', 'Euclid Heat Treating']",2,2,4,['United States Of America'],False
+EURO LOCKS,"['EURO LOCKS', 'EURO LOCKS SA']",2,2,2,[],True
+EUROTEC,"['EUROTEC', 'EUROTEC SRL']",2,2,5,['Italy'],True
+EXTRUSIONS,"['EXTRUSIONS', 'EXTRUSIONS INC']",2,2,4,['United States Of America'],True
+FAIRBANKS MORSE,"['FAIRBANKS MORSE', 'Fairbanks Morse']",2,2,3,['United States Of America'],False
+FAIRBANKS MORSE ENGINE,"['FAIRBANKS MORSE ENGINE', 'Fairbanks Morse Engine']",2,2,3,['United States Of America'],False
+FAYETTE CUSTOM WIRE PRODUCTS,"['FAYETTE CUSTOM WIRE PRODUCTS', 'Fayette Custom Wire Products']",2,2,2,['United States Of America'],False
+FIESTA TABLEWARE,"['Fiesta Tableware', 'Fiesta Tableware Company']",2,2,2,['United States Of America'],True
+FK INSTRUMENT,"['FK INSTRUMENT LLC', 'FK Instrument LLC']",2,2,3,['United States Of America'],True
+FONDRIEST ENVIRONMENTAL,"['FONDRIEST ENVIRONMENTAL', 'fondriest Environmental Inc']",2,2,4,['United States Of America'],True
+FORM TIGHT,"['FORM TIGHT', 'Form Tight Inc']",2,2,4,['United States Of America'],True
+FOUR STATE INDUSTRIAL,"['FOUR STATE INDUSTRIAL', 'Four State Industrial']",2,2,3,['United States Of America'],False
+GASFLO PRODUCTS,"['GASFLO PRODUCTS', 'GASFLO PRODUCTS INC']",2,2,6,['United States Of America'],True
+GEM INDUSTRIES,"['GEM INDUSTRIES', 'GEM Industries']",2,2,4,['United States Of America'],False
+GLASS COMPONENTS,"['GLASS COMPONENTS', 'GLASS COMPONENTS INC']",2,2,4,['United States Of America'],True
+GLOBAL TRADING COMMODITIES,"['GLOBAL TRADING COMMODITIES', 'GLOBAL TRADING COMMODITIES LLC']",2,2,4,['United States Of America'],True
+GWYNEDD MANUFACTURING,"['GWYNEDD MANUFACTURING', 'Gwynedd Manufacturing Inc']",2,2,4,['United States Of America'],True
+H AND S SUPPLY,"['H AND S SUPPLY', 'H AND S SUPPLY CO']",2,2,3,['United States Of America'],True
+HARDIN CREEK MACHINE AND TOOL,"['HARDIN CREEK MACHINE AND TOOL', 'Hardin Creek Machine AND Tool']",2,2,4,['United States Of America'],False
+HARDW AIR,"['HARDW AIR INC', 'Hardw Air Inc']",2,2,4,['United States Of America'],True
+HARDWARE UNLIMITED,"['HARDWARE UNLIMITED', 'HARDWARE UNLIMITED INC']",2,2,3,['Canada'],True
+HERD MANUFACTURING,"['HERD MANUFACTURING', 'Herd Manufacturing']",2,2,3,['United States Of America'],False
+HERMAN MACHINE,"['HERMAN MACHINE', 'Herman Machine Co']",2,2,3,['United States Of America'],True
+HI TIDE MANUFACTURING,"['HI TIDE MANUFACTURING', 'Hi Tide Manufacturing']",2,2,2,['United States Of America'],False
+HOFFMANN RAUMTECHNIK,"['HOFFMANN RAUMTECHNIK', 'HOFFMANN RÄUMTECHNIK GMBH']",2,2,3,['Germany'],True
+HUA YONG MACHINE INDUSTRY,"['HUA YONG MACHINE INDUSTRY CO. LTD.', 'HUA YONG MACHINE INDUSTRY CO., LTD.']",2,2,2,[],True
+HUMMELS OFFICE EQUIPMENT,"['HUMMELS OFFICE EQUIPMENT CO', 'Hummels Office Equipment Co']",2,2,3,['United States Of America'],True
+HUSCO AUTOMOTIVE,"['HUSCO AUTOMOTIVE', 'Husco Automotive']",2,2,4,['United States Of America'],False
+HYQUIP,"['HYQUIP', 'HYQUIP LIMITED']",2,2,4,['United Kingdom'],True
+IMS,"['IMS', 'IMS LLC']",2,2,4,['United States Of America'],True
+INDEPENDENT MACHINE,"['INDEPENDENT MACHINE', 'Independent Machine']",2,2,4,['United States Of America'],False
+INDEPENDENT TOOL,"['INDEPENDENT TOOL', 'Independent Tool']",2,2,2,['United States Of America'],False
+INDIAN CHAINS P,"['INDIAN CHAINS ( P ) LTD', 'INDIAN CHAINS P LTD']",2,2,4,['India'],True
+INDUSTRIAL NUT,"['INDUSTRIAL NUT', 'INDUSTRIAL NUT CORPORATION']",2,2,3,['United States Of America'],True
+INDUSTRIAL SUPPLY,"['INDUSTRIAL SUPPLY', 'INDUSTRIAL SUPPLY CO']",2,2,3,['United States Of America'],True
+INSIGHTFUEL,"['INSIGHTFUEL', 'Insightfuel LLC']",2,2,4,"['Spain', 'United States Of America']",True
+INTAT PRECISION,"['Intat Precision', 'Intat Precision Inc']",2,2,3,['United States Of America'],True
+INTRA,"['INTRA CORPORATION', 'INTRA SRL']",2,2,3,"['Italy', 'United States Of America']",True
+INVOTEC ENGINEERING,"['INVOTEC ENGINEERING', 'Invotec Engineering']",2,2,3,['United States Of America'],False
+J AND L MANUFACTURING,"['J AND L MANUFACTURING', 'J AND L Manufacturing Inc']",2,2,4,"['Canada', 'United States Of America']",True
+JACOBS,"['JACOBS', 'JACOBS CORPORATION']",2,2,3,['United States Of America'],True
+JENJACS,"['JENJACS', 'Jenjacs']",2,2,2,['United States Of America'],False
+JM GRIMSTAD,"['JM GRIMSTAD', 'JM GRIMSTAD INC']",2,2,4,['Norway'],True
+JR ENGINEERING,"['JR Engineering', 'JR Engineering Inc']",2,2,4,['United States Of America'],True
+JV MANUFACTURING,"['JV MANUFACTURING', 'JV Manufacturing Inc']",2,2,3,['United States Of America'],True
+JWF INDUSTRIES,"['JWF INDUSTRIES', 'JWF Industries Inc']",2,2,3,['United States Of America'],True
+KA WOOD GEAR AND MACHINE,"['KA WOOD GEAR AND MACHINE', 'KA Wood Gear and Machine']",2,2,4,['United States Of America'],False
+KANE ARCHITECTURAL INNOVATIONS,"['KANE ARCHITECTURAL INNOVATIONS', 'Kane Architectural Innovations']",2,2,3,['United States Of America'],False
+KEEN PUMP,"['KEEN PUMP COMPANY', 'Keen Pump']",2,2,3,['United States Of America'],True
+KENNCO MANUFACTURING,"['KENNCO MANUFACTURING', 'Kennco Manufacturing']",2,2,2,['United States Of America'],False
+KENT MOLD AND MFG,"['KENT MOLD AND MFG', 'Kent Mold and Mfg']",2,2,4,['United States Of America'],False
+KINECTRICS,"['KINECTRICS', 'KINECTRICS INC']",2,2,4,['Canada'],True
+KLAUBER MACHINE AND GEAR,"['KLAUBER MACHINE AND GEAR', 'Klauber Machine and Gear']",2,2,3,['United States Of America'],False
+KMW,"['KMW', 'KMW LTD']",2,2,3,"['Germany', 'United States Of America']",True
+KNIGHTS ARMAMENT,"['KNIGHTS ARMAMENT', 'Knights Armament']",2,2,2,['United States Of America'],False
+KOLLMORGEN,"['KOLLMORGEN', 'KOLLMORGEN CORPORATION']",2,2,4,['United States Of America'],True
+KOOIMA,"['KOOIMA AG', 'KOOIMA AG INC']",2,2,4,['United States Of America'],True
+KOSAB I OLOFSTROM AB,"['KOSAB I OLOFSTROM AB', 'KOSAB I OLOFSTRÖM AB']",2,2,5,['Sweden'],True
+KRANO BLOCK,"['KRANO BLOCK ', 'KRANO BLOCK PVT. LTD']",2,2,4,['India'],True
+LAMINACION BASCONIA,"['LAMINACION BASCONIA', 'LAMINACION BASCONIA SA']",2,2,2,"['Argentina', 'Spain']",True
+LANDTRAN LOGISTICS,"['LANDTRAN LOGISTICS', 'Landtran Logistics']",2,2,4,['Canada'],False
+LAUER MACHINE AND MFG,"['LAUER MACHINE AND MFG', 'Lauer Machine and Mfg LTD']",2,2,4,"['Canada', 'United States Of America']",True
+LENTEK,"['LENTEK SPA', 'LENTEK SRL']",2,2,3,['Italy'],True
+LES OUTILS BARON MONTREAL,"['LES OUTILS BARON MONTREAL', 'Les Outils Baron Montreal']",2,2,4,['Canada'],False
+LINCOLN MANUFACTURING,"['LINCOLN MANUFACTURING', 'Lincoln Manufacturing Inc']",2,2,3,['United States Of America'],True
+LISI GROUP,"['LISI GROUP', 'LISI Group']",2,2,4,['France'],False
+LISS,"['LISS', 'Liss']",2,2,4,['Hungary'],False
+LITTLESTOWN FOUNDRY,"['LITTLESTOWN FOUNDRY', 'Littlestown Foundry Inc']",2,2,3,['United States Of America'],True
+LOCUST GROVE,"['LOCUST GROVE', 'Locust Grove']",2,2,2,['United States Of America'],False
+LOFLIN FABRICATION,"['LOFLIN FABRICATION', 'Loflin Fabrication']",2,2,3,['United States Of America'],False
+LOGUE INDUSTRIES,"['LOGUE INDUSTRIES INC', 'Logue Industries Inc']",2,2,3,['United States Of America'],True
+M AND S CONVERSION,"['M AND S CONVERSION', 'M AND S CONVERSION CO INC']",2,2,3,['United States Of America'],True
+M K MORSE,"['M K MORSE CO', 'M K MORSE COMPANY']",2,2,9,['United States Of America'],True
+MACK MANUFACTURING,"['MACK MANUFACTURING', 'MACK MANUFACTURING INC']",2,2,5,['United States Of America'],True
+MAJAC TOOLING SUPPLY,"['MAJAC TOOLING SUPPLY LTD', 'Majac Tooling Supply Ltd']",2,2,4,['Canada'],True
+MANITOWOC TOOL AND MACHINING,"['MANITOWOC TOOL AND MACHINING', 'Manitowoc Tool and Machining']",2,2,5,['United States Of America'],False
+MANNS TOOL SPECIALTIES,"['MANNS TOOL SPECIALTIES', 'Manns Tool Specialties']",2,2,2,['United States Of America'],False
+MASS PRECISION,"['MASS PRECISION', 'MASS PRECISION INC']",2,2,4,['United States Of America'],True
+MATTHEWS LUBRICANTS,"['MATTHEWS LUBRICANTS', 'Matthews Lubricants']",2,2,3,['United States Of America'],False
+MAYSTEEL,"['MAYSTEEL', 'MAYSTEEL CORPORATION']",2,2,4,['United States Of America'],True
+MCC INTERNATIONAL,"['MCC INTERNATIONAL', 'MCC International Inc']",2,2,2,['United States Of America'],True
+MEADOWBROOK MACHINE AND TOOL,"['MEADOWBROOK MACHINE AND TOOL', 'Meadowbrook Machine and Tool']",2,2,4,['United States Of America'],False
+MERCURY AIRCRAFT,"['MERCURY AIRCRAFT', 'MERCURY AIRCRAFT INC']",2,2,3,['United States Of America'],True
+MESTEK,"['MESTEK', 'MESTEK INC']",2,2,4,['United States Of America'],True
+METAL CUTTING TECHNOLOGY,"['METAL CUTTING TECHNOLOGY PTY LTD', 'Metal Cutting Technology']",2,2,2,['Australia'],True
+METALGRUP,"['METALGRUP', 'METALGRUP SA']",2,2,3,['Spain'],True
+MFC NETFORM,"['MFC NETFORM', 'MFC Netform']",2,2,2,['United States Of America'],False
+MI,"['MI', 'MI CORP']",2,2,4,['United States Of America'],True
+MICRO STAMPING,"['MICRO STAMPING', 'MICRO STAMPING CORPORATION']",2,2,4,['United States Of America'],True
+MID VALLEY INDUSTRIES,"['MID VALLEY INDUSTRIES', 'Mid Valley Industries Inc']",2,2,3,['United States Of America'],True
+MID WEST FABRICATING,"['MID WEST FABRICATING', 'Mid West Fabricating Co']",2,2,3,['United States Of America'],True
+MIDLANDS TOOLING SYSTEMS,"['MIDLANDS TOOLING SYSTEMS INC', 'Midlands Tooling Systems Inc']",2,2,5,['United States Of America'],True
+MIDWAY INDUSTRIES,"['MIDWAY INDUSTRIES', 'Midway Industries']",2,2,2,['United States Of America'],False
+MILITARY AND COMMERCIAL FASTENERS,"['MILITARY AND COMMERCIAL FASTENERS', 'MILITARY and COMMERCIAL FASTENERS']",2,2,4,['United States Of America'],False
+MILLER WELDING AND MACHINE,"['MILLER WELDING AND MACHINE', 'MILLER WELDING and MACHINE CO']",2,2,4,['United States Of America'],True
+MONTI,"['MONTI', 'MONTI INCORPORATED']",2,2,4,"['Italy', 'United States Of America']",True
+MOON TOOL AND DIE,"['MOON TOOL AND DIE', 'MOON TOOL AND DIE CO']",2,2,4,['United States Of America'],True
+MOORE INDUSTRIAL,"['Moore Industrial', 'Moore Industrial Ltd']",2,2,4,"['Canada', 'United States Of America']",True
+MOSS SEAL,"['MOSS SEAL COMPANY', 'Moss Seal Company']",2,2,4,['United States Of America'],True
+MSC DISTRIBUTING,"['MSC DISTRIBUTING', 'MSC Distributing Inc']",2,2,4,['United States Of America'],True
+NARZEDZIA,"['LP NARZEDZIA', 'NARZEDZIA']",2,2,2,['Poland'],True
+NASG SEATING BRYAN,"['NASG SEATING BRYAN LLC', 'NASG SEATING BRYAN, LLC']",2,2,4,['United States Of America'],True
+NATH,"['NATH INC', 'Nath Inc']",2,2,3,['United States Of America'],True
+NATIONAL MACHINERY,"['NATIONAL MACHINERY', 'NATIONAL MACHINERY COMPANY']",2,2,4,['United States Of America'],True
+NATTAKORN PART GROUP,"['NATTAKORN PART GROUP', 'NATTAKORN PART GROUP LIMITED']",2,2,3,['Thailand'],True
+NEBRASKA ALUMINUM CASTINGS,"['NEBRASKA ALUMINUM CASTINGS', 'NEBRASKA ALUMINUM CASTINGS INC']",2,2,2,['United States Of America'],True
+NEDCO,"['NEDCO', 'NEDCO INC']",2,2,4,['United States Of America'],True
+NEOLIN,"['NEOLIN SA.', 'Neolin']",2,2,3,['Argentina'],True
+NEW ENGLAND PRECISION,"['NEW ENGLAND PRECISION', 'New England Precision']",2,2,4,['United States Of America'],False
+NEW STANDARD,"['NEW STANDARD', 'NEW STANDARD CORPORATION']",2,2,3,['United States Of America'],True
+NEWINGHALL,"['NEWINGHALL', 'NewingHall']",2,2,5,['United States Of America'],False
+NIBCO,"['NIBCO', 'NIBCO INC']",2,2,4,['United States Of America'],True
+NO LIMIT SWISS,"['NO LIMIT SWISS', 'No Limit Swiss']",2,2,3,['United States Of America'],False
+NORKRAM,"['NORKRAM', 'NORKRAM LIMITED']",2,2,2,['Netherlands'],True
+NORTHERN IOWA DIE CASTING,"['NORTHERN IOWA DIE CASTING', 'NORTHERN IOWA DIE CASTING INC']",2,2,4,['United States Of America'],True
+NORTHERN KY MACHINE,"['NORTHERN KY MACHINE INC', 'Northern KY Machine Inc']",2,2,4,['United States Of America'],True
+NORTHSIDE MACHINE,"['NORTHSIDE MACHINE', 'Northside Machine']",2,2,2,['United States Of America'],False
+NORTHWEST PIPE,"['NORTHWEST PIPE', 'NORTHWEST PIPE COMPANY']",2,2,4,['United States Of America'],True
+NORTHWEST TOOL GRINDERS,"['NORTHWEST TOOL GRINDERS', 'Northwest Tool Grinders']",2,2,4,['United States Of America'],False
+OHIO STAR FORGE,"['OHIO STAR FORGE', 'Ohio Star Forge']",2,2,5,['United States Of America'],False
+OHIO VALLEY MANUFACTURING,"['OHIO VALLEY MANUFACTURING', 'Ohio Valley Manufacturing']",2,2,4,['United States Of America'],False
+OMEGA TOOL,"['OMEGA TOOL CORP', 'Omega Tool Corp']",2,2,4,['Canada'],True
+OREGON PUMP WORKS,"['OREGON PUMP WORKS', 'Oregon Pump Works']",2,2,4,['United States Of America'],False
+PBM CONSTRUCTORS,"['PBM CONSTRUCTORS INC', 'PBM Constructors Inc']",2,2,5,['United States Of America'],True
+PCS FERGUSON,"['PCS FERGUSON', 'PCS Ferguson Inc']",2,2,4,['United States Of America'],True
+PEERLESS SAW,"['PEERLESS SAW COMPANY', 'Peerless Saw Company']",2,2,8,['United States Of America'],True
+PEM FASTENERS MALAYSIA,"['PEM FASTENERS (MALAYSIA).', 'PEM FASTENERS MALAYSIA']",2,2,2,['Malaysia'],True
+PEREGRINE MACHINE,"['PEREGRINE MACHINE LLC', 'Peregrine Machine LLC']",2,2,2,['United States Of America'],True
+PETERSON HEAT TREATING,"['PETERSON HEAT TREATING', 'Peterson Heat Treating']",2,2,4,['United States Of America'],False
+PHILIP MORRIS M OAKLAND IND,"['PHILIP MORRIS (M) OAKLAND IND', 'PHILIP MORRIS M OAKLAND IND']",2,2,2,['United States Of America'],True
+PHOENIX STAMPING GROUP,"['PHOENIX STAMPING GROUP', 'Phoenix Stamping Group LLC']",2,2,3,['United States Of America'],True
+PHOENIX TRINITY MFG,"['PHOENIX TRINITY MFG', 'Phoenix Trinity MFG']",2,2,2,['United States Of America'],False
+PIERCE MACHINE,"['PIERCE MACHINE', 'PIERCE MACHINE COMPANY']",2,2,3,['United States Of America'],True
+POWER SYSTEMS MFG,"['POWER SYSTEMS MFG', 'Power Systems Mfg']",2,2,3,['United States Of America'],False
+PRECI DIP,"['PRECI DIP', 'Preci Dip']",2,2,5,['Switzerland'],False
+PRECISION BRASS AND BULLET,"['PRECISION BRASS AND BULLET', 'Precision Brass and Bullet']",2,2,4,['United States Of America'],False
+PRECISION GRINDING,"['PRECISION GRINDING', 'Precision Grinding']",2,2,4,['United States Of America'],False
+PRECISION TOOL AND DIE,"['PRECISION TOOL AND DIE', 'Precision Tool AND Die Inc']",2,2,3,['United States Of America'],True
+PRECISION WELDING,"['PRECISION WELDING', 'Precision Welding']",2,2,3,['United States Of America'],False
+PREMCO,"['PREMCO', 'Premco Inc']",2,2,4,['United States Of America'],True
+PRI MAR PETROLEUM,"['PRI MAR PETROLEUM INC', 'Pri Mar Petroleum Inc']",2,2,3,['United States Of America'],True
+PRINCETON TOOL,"['PRINCETON TOOL', 'Princeton Tool']",2,2,4,['United States Of America'],False
+PRO MACHINE,"['PRO MACHINE', 'Pro Machine']",2,2,4,['United States Of America'],False
+PRODUCTIVITY,"['PRODUCTIVITY', 'PRODUCTIVITY INC']",2,2,3,['United States Of America'],True
+PRUITT MACHINE SHOP,"['PRUITT MACHINE SHOP', 'Pruitt Machine Shop']",2,2,3,['United States Of America'],False
+QINGDAO JINGHONG PRECISION,"['QINGDAO JINGHONG PRECISION', 'QINGDAO JINGHONG PRECISION CO LTD']",2,2,2,['China'],True
+QUADREL LABELING SYSTEMS,"['QUADREL LABELING SYSTEMS', 'Quadrel Labeling Systems']",2,2,2,['United States Of America'],False
+QUALADIE,"['QUALADIE', 'QualaDie Inc']",2,2,4,['United States Of America'],True
+QUALITY BOLT AND SCREW,"['Quality Bolt AND Screw Co', 'Quality Bolt AND Screw Company']",2,2,4,['United States Of America'],True
+QUALITY METAL PRODUCTS,"['QUALITY METAL PRODUCTS', 'Quality Metal Products']",2,2,4,['United States Of America'],False
+QUALITY PRODUCTS,"['QUALITY PRODUCTS', 'Quality Products']",2,2,3,['United States Of America'],False
+R AND D FASTENERS,"['R AND D FASTENERS', 'R and D Fasteners']",2,2,4,['United States Of America'],False
+RA,"['RA', 'SA RA']",2,2,3,"['Brazil', 'Turkey']",True
+RAFTER EQUIPMENT,"['Rafter Equipment Corp', 'Rafter Equipment Corporation']",2,2,4,['United States Of America'],True
+RAIDER OUTBOARDS,"['RAIDER OUTBOARDS', 'Raider Outboards']",2,2,2,['United States Of America'],False
+RECYCLE EAST,"['RECYCLE EAST', 'RECYCLE INC EAST']",2,2,4,['United States Of America'],True
+RICHARD ROSSA,"['RICHARD ROSSA', 'Richard Rossa']",2,2,3,['United States Of America'],False
+RICHLAND,"['RICHLAND', 'Richland LLC']",2,2,3,['United States Of America'],True
+RIVACOLD,"['RIVACOLD', 'RIVACOLD SRL']",2,2,2,['Italy'],True
+RM TOOL AND DIE,"['RM TOOL AND DIE', 'RM Tool and Die Inc']",2,2,3,['United States Of America'],True
+ROCKWOOD ENTERPRISES GROUP,"['ROCKWOOD ENTERPRISES GROUP INC', 'Rockwood Enterprises Group Inc']",2,2,2,['United States Of America'],True
+ROLLTECH PRECISION METALS,"['ROLLTECH PRECISION METALS', 'Rolltech Precision Metals']",2,2,3,['United States Of America'],False
+RONLEN INDUSTRIES,"['RONLEN INDUSTRIES', 'Ronlen Industries']",2,2,3,['United States Of America'],False
+RUBBER CITY MACHINERY,"['RUBBER CITY MACHINERY CORP', 'Rubber City Machinery']",2,2,3,['United States Of America'],True
+RUELCO,"['RUELCO', 'Ruelco']",2,2,5,['United States Of America'],False
+RYERSON,"['RYERSON', 'Ryerson']",2,2,3,['United States Of America'],False
+SACIL,"['SACIL', 'SACIL SRL']",2,2,4,['Italy'],True
+SAFETY EQUIPMENT,"['SAFETY EQUIPMENT CORP', 'SAFETY EQUIPMENT CORPORATION']",2,2,3,['United States Of America'],True
+SALES AND ENGINEERING,"['SALES and ENGINEERING', 'Sales and Engineering']",2,2,3,['United States Of America'],False
+SAMCO ENTERPRISES,"['SAMCO ENTERPRISES', 'Samco Enterprises']",2,2,3,['India'],False
+SAN SHING FASTECH,"['SAN SHING FASTECH', 'SAN SHING FASTECH CORP']",2,2,2,['Taiwan'],True
+SAVE,"['SAVE', 'SAVE SRL']",2,2,8,['Italy'],True
+SAW SERVICE,"['SAW SERVICE', 'Saw Service']",2,2,3,['United States Of America'],False
+SCALE TOOLING,"['SCALE TOOLING', 'Scale Tooling']",2,2,4,['United States Of America'],False
+SCHMIEDE,"['SCHMIEDE', 'Schmiede Corporation']",2,2,2,"['Germany', 'United States Of America']",True
+SCORPION EQUITY,"['SCORPION EQUITY LLC', 'Scorpion Equity LLC']",2,2,3,['United States Of America'],True
+SERVICE MACHINE SPECIALTIES,"['SERVICE MACHINE SPECIALTIES', 'Service Machine Specialties']",2,2,4,['United States Of America'],False
+SHALMET,"['SHALMET', 'SHALMET CORPORATION']",2,2,4,['United States Of America'],True
+SHERWOOD VALVE,"['SHERWOOD VALVE', 'SHERWOOD VALVE LLC']",2,2,6,['United States Of America'],True
+SHIJIAZHUANG FULUKAIER SAI AISI SHIP MW,"['SHIJIAZHUANG FULUKAIER SAI AISI SHIP MW', 'SHIJIAZHUANG FULUKAIER-SAI AISI SHIP MW']",2,2,3,[],True
+SHINHWA,"['SHINHWA', 'Shinhwa']",2,2,5,['South Korea'],False
+SIAM FORGING,"['SIAM FORGING', 'Siam Forging']",2,2,2,['Thailand'],False
+SILVER TOOL,"['SILVER TOOL', 'Silver Tool Inc']",2,2,3,"['Canada', 'United States Of America']",True
+SIMMONS ENGINEERING,"['SIMMONS ENGINEERING', 'Simmons Engineering']",2,2,3,['United States Of America'],False
+SIMMONS MFG,"['SIMMONS MFG', 'Simmons Mfg']",2,2,2,['United States Of America'],False
+SLOAN VALVE,"['SLOAN VALVE', 'SLOAN VALVE COMPANY']",2,2,3,['United States Of America'],True
+SOFLO MACHINING,"['SOFLO MACHINING', 'Soflo Machining']",2,2,2,['United States Of America'],False
+SPACE CITY MACHINE AND TOOL,"['SPACE CITY MACHINE AND TOOL', 'Space City Machine and Tool']",2,2,4,['United States Of America'],False
+SPECIAL METAL STAMPING,"['SPECIAL METAL STAMPING', 'Special Metal Stamping']",2,2,4,['United States Of America'],False
+SPECIAL SPRING,"['SPECIAL SPRING', 'SPECIAL SPRING SRL']",2,2,3,"['Italy', 'United States Of America']",True
+SPECIALTY MACHINE,"['SPECIALTY MACHINE', 'Specialty Machine']",2,2,3,['United States Of America'],False
+SPECTRUM CUSTOM MOLDS,"['SPECTRUM CUSTOM MOLDS', 'Spectrum Custom Molds']",2,2,4,['United States Of America'],False
+SPECTRUM PLATING,"['SPECTRUM PLATING', 'SPECTRUM PLATING COMPANY']",2,2,4,['United States Of America'],True
+STANDARD OIL,"['STANDARD OIL', 'Standard Oil']",2,2,5,['Japan'],False
+STARK INDUSTRIAL,"['STARK INDUSTRIAL', 'Stark Industrial LLC']",2,2,3,['United States Of America'],True
+STELLAR PRECISION COMPONENTS,"['STELLAR PRECISION COMPONENTS', 'Stellar Precision Components']",2,2,2,['United States Of America'],False
+STENNER PUMP,"['STENNER PUMP CO', 'STENNER PUMP COMPANY']",2,2,4,['United States Of America'],True
+STEWARTS OF AMERICA,"['STEWARTS OF AMERICA', 'Stewarts of America']",2,2,5,['United States Of America'],False
+STOREY MACHINING SERVICES,"['Storey Machining Services', 'Storey Machining Services LLC']",2,2,3,['United States Of America'],True
+STRUCTURES UNLIMITED,"['STRUCTURES UNLIMITED INC', 'Structures Unlimited Inc']",2,2,4,['United States Of America'],True
+STULLS MACHINE AND FABRICATION,"['STULLS MACHINE AND FABRICATION', 'Stulls Machine and Fabrication']",2,2,3,['United States Of America'],False
+SUPERIOR MACHINE,"['SUPERIOR MACHINE COMPANY', 'SUPERIOR MACHINE INC']",2,2,3,['United States Of America'],True
+SUPERIOR PRODUCTS,"['SUPERIOR PRODUCTS', 'Superior Products Inc']",2,2,4,['United States Of America'],True
+SYNOVOS,"['SYNOVOS', 'SYNOVOS INC']",2,2,4,['United States Of America'],True
+TAURUS STAMPING,"['TAURUS STAMPING INC', 'Taurus Stamping']",2,2,4,['Canada'],True
+TELECON,"['TELECON LLC', 'Telecon LLC']",2,2,3,['United States Of America'],True
+TEMPER,"['TEMPER', 'TEMPER CORP']",2,2,4,['United States Of America'],True
+TESSY PLASTICS,"['TESSY PLASTICS', 'TESSY PLASTICS LLC']",2,2,4,['United States Of America'],True
+TEXAS SPEED AND PERFORMANCE,"['TEXAS SPEED AND PERFORMANCE', 'Texas Speed and Performance']",2,2,4,['United States Of America'],False
+TF AND T,"['TF AND T INC', 'TF and T Inc']",2,2,6,['United States Of America'],True
+THE AUTO BOLT,"['The Auto Bolt Co', 'The Auto Bolt Company']",2,2,2,['United States Of America'],True
+THE MASTER PRODUCTS,"['THE MASTER PRODUCTS COMPANY', 'The Master Products Co']",2,2,3,['United States Of America'],True
+THE ROUTER MILL,"['THE ROUTER MILL LLC', 'The Router Mill LLC']",2,2,2,['United States Of America'],True
+THERMAL LUBE,"['THERMAL LUBE', 'Thermal Lube']",2,2,2,['United States Of America'],False
+THERMEDX,"['THERMEDX LLC', 'Thermedx LLC']",2,2,4,['United States Of America'],True
+THERMETCO,"['THERMETCO', 'THERMETCO INC']",2,2,4,['Canada'],True
+THUMB TOOL AND ENGINEERING,"['THUMB TOOL AND ENGINEERING', 'THUMB TOOL AND ENGINEERING CO']",2,2,4,['United States Of America'],True
+TONNARD MFG,"['TONNARD MFG CORP', 'Tonnard Mfg Corp']",2,2,2,[],True
+TOOLING DYNAMICS,"['TOOLING DYNAMICS', 'TOOLING DYNAMICS LLC']",2,2,4,['United States Of America'],True
+TOOLING TECHNOLOGY,"['TOOLING TECHNOLOGY', 'Tooling Technology']",2,2,4,['United States Of America'],False
+TOOLSOUTH,"['TOOLSOUTH INC', 'Toolsouth Inc']",2,2,4,['United States Of America'],True
+TOP NOTCH TOOL AND ENGR,"['TOP NOTCH TOOL AND ENGR', 'Top Notch Tool and Engr']",2,2,2,['United States Of America'],False
+TRACE ENGINEERING,"['TRACE ENGINEERING', 'Trace Engineering']",2,2,5,['United States Of America'],False
+TRANSPLY,"['TRANSPLY', 'TRANSPLY INC']",2,2,5,['United States Of America'],True
+TRANTECH RADIATOR PRODUCTS,"['TRANTECH RADIATOR PRODUCTS', 'TRANTECH RADIATOR PRODUCTS INC']",2,2,5,['United States Of America'],True
+TRENDIUM POOL PRODUCTS,"['TRENDIUM POOL PRODUCTS', 'TRENDIUM POOL PRODUCTS INC']",2,2,4,['Canada'],True
+TRICO MACHINE PRODUCTS,"['TRICO MACHINE PRODUCTS', 'Trico Machine Products']",2,2,4,['United States Of America'],False
+TRIFECTA TOOL AND ENGINEERING,"['TRIFECTA TOOL AND ENGINEERING', 'Trifecta Tool and Engineering']",2,2,4,['United States Of America'],False
+TRISTATE TOOL AND DIE,"['TRISTATE TOOL AND DIE CO', 'TRISTATE TOOL and DIE CO']",2,2,4,['United States Of America'],True
+TROY MANUFACTURING,"['TROY MANUFACTURING COMPANY', 'Troy Manufacturing Company Inc']",2,2,2,['United States Of America'],True
+TRUSTY COOK,"['TRUSTY COOK', 'Trusty Cook']",2,2,4,['United States Of America'],False
+TT,"['TT', 'TT SRL']",2,2,2,['Italy'],True
+TUBE FAB ROMAN ENGINEERING,"['TUBE FAB ROMAN ENGINEERING', 'Tube Fab Roman Engineering']",2,2,3,['United States Of America'],False
+TUBE HONING AND FINISHING,"['TUBE HONING AND FINISHING', 'TUBE HONING and FINISHING']",2,2,4,['Canada'],False
+TUBE METHODS,"['TUBE METHODS INC', 'Tube Methods Inc']",2,2,4,['United States Of America'],True
+TUBE SPECIALTIES,"['TUBE SPECIALTIES', 'TUBE SPECIALTIES COMPANY INC']",2,2,4,['United States Of America'],True
+TURNCORP,"['TURNCORP', 'TURNCORP INC']",2,2,6,['United States Of America'],True
+UNIMATIC,"['UNIMATIC', 'UNIMATIC INC']",2,2,4,['United States Of America'],True
+UNITED GEAR AND ASSY,"['UNITED GEAR AND ASSY', 'United Gear and ASSY']",2,2,2,['United States Of America'],False
+UNITED INDUSTRIES,"['UNITED INDUSTRIES', 'UNITED INDUSTRIES INC']",2,2,3,['United States Of America'],True
+UNIVERSAL METAL PRODUCTS,"['UNIVERSAL METAL PRODUCTS', 'Universal Metal Products']",2,2,3,['United States Of America'],False
+US CARGO SYSTEMS,"['US CARGO SYSTEMS', 'US Cargo Systems']",2,2,3,['United States Of America'],False
+VAC AERO INTERNATIONAL,"['VAC AERO INTERNATIONAL', 'VAC AERO INTERNATIONAL INC']",2,2,4,['Canada'],True
+VARBROS,"['VARBROS', 'Varbros LLC']",2,2,3,['United States Of America'],True
+VECTOR MACHINE,"['VECTOR MACHINE', 'Vector Machine']",2,2,2,['United States Of America'],False
+VERMONT PRECISION TOOL,"['VERMONT PRECISION TOOL', 'Vermont Precision Tool']",2,2,4,['United States Of America'],False
+VICTOR INSULATOR,"['VICTOR INSULATOR INC', 'Victor Insulator Inc']",2,2,4,['United States Of America'],True
+VICTOR INSULATORS,"['VICTOR INSULATORS', 'Victor Insulators Inc']",2,2,3,['United States Of America'],True
+VIEGA,"['VIEGA', 'VIEGA LLC']",2,2,3,"['Germany', 'United States Of America']",True
+VISTA METALS,"['VISTA METALS', 'Vista Metals Inc']",2,2,3,['United States Of America'],True
+WARREN MANUFACTURING,"['WARREN MANUFACTURING', 'Warren Manufacturing']",2,2,2,['United States Of America'],False
+WASHINGTON TOOL AND MACHINE,"['WASHINGTON TOOL AND MACHINE', 'Washington Tool and Machine']",2,2,2,['United States Of America'],False
+WATERS MACHINE,"['WATERS MACHINE CO', 'Waters Machine']",2,2,3,['United States Of America'],True
+WEBSTER MACHINE WORKS,"['WEBSTER MACHINE WORKS', 'WEBSTER MACHINE WORKS LLC']",2,2,4,['United States Of America'],True
+WELDON SOLUTIONS,"['WELDON SOLUTIONS', 'Weldon Solutions']",2,2,3,['United States Of America'],False
+WESTERN FORGE,"['WESTERN FORGE', 'WESTERN FORGE CORPORATION']",2,2,2,['United States Of America'],True
+WIRE PRODUCTS,"['Wire Products', 'Wire Products Co']",2,2,2,['United States Of America'],True
+WOOLF AIRCRAFT PRODUCTS,"['WOOLF AIRCRAFT PRODUCTS', 'Woolf Aircraft Products']",2,2,4,['United States Of America'],False
+WORKHOLDING TOOLS,"['WORKHOLDING TOOLS LLC', 'Workholding Tools LLC']",2,2,4,['United States Of America'],True
+WRIGHT TOOL,"['WRIGHT TOOL COMPANY', 'Wright Tool Company']",2,2,2,['United States Of America'],True
+ZAGAR,"['ZAGAR LLC', 'Zagar Inc']",2,2,4,['United States Of America'],True
+ZIERKE BUILT MFG,"['ZIERKE BUILT MFG', 'ZIERKE BUILT MFG INC']",2,2,3,['United States Of America'],True
