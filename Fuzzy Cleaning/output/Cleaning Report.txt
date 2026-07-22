@@ -1,0 +1,45 @@
+
+============================================================
+          GLOBAL PARENT CLEANING REPORT
+============================================================
+
+Execution Summary
+-----------------
+Rows processed                 : 49,493
+
+Unique Global Parents
+---------------------
+Original unique GPs            : 18,780
+Clean unique GPs               : 17,987
+Reduction in unique GPs        : 793
+
+Exact Normalization
+-------------------
+Exact normalization groups     : 561
+Names in GP mapping            : 1,838
+
+Manual Homologation
+-------------------
+Reviewed candidate pairs       : 711
+Approved homologations         : 380
+
+Graph Analysis
+--------------
+Connected components           : 868
+
+Catalogue Changes
+-----------------
+Rows modified                  : 1,806
+Rows unchanged                 : 47,687
+
+Output Files
+------------
+- Customer Catalogue Clean.csv
+- 05_gp_mapping.csv
+
+Status
+------
+Cleaning completed successfully.
+No conflicting canonical decisions were detected.
+
+============================================================
