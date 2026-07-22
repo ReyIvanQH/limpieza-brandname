@@ -5,18 +5,18 @@
 
 Execution Summary
 -----------------
-Rows processed                 : 49,493
+Rows processed                 : 49,492
 
 Unique Global Parents
 ---------------------
-Original unique GPs            : 18,780
-Clean unique GPs               : 17,987
-Reduction in unique GPs        : 793
+Original unique GPs            : 17,931
+Clean unique GPs               : 17,931
+Reduction in unique GPs        : 0
 
 Exact Normalization
 -------------------
-Exact normalization groups     : 561
-Names in GP mapping            : 1,838
+Exact normalization groups     : 56
+Names in GP mapping            : 773
 
 Manual Homologation
 -------------------
@@ -25,12 +25,12 @@ Approved homologations         : 380
 
 Graph Analysis
 --------------
-Connected components           : 868
+Connected components           : 344
 
 Catalogue Changes
 -----------------
-Rows modified                  : 1,806
-Rows unchanged                 : 47,687
+Rows modified                  : 9
+Rows unchanged                 : 49,483
 
 Output Files
 ------------
