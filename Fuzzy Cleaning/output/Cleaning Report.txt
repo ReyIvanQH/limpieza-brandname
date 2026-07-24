@@ -15,8 +15,8 @@ Reduction in unique GPs        : 0
 
 Exact Normalization
 -------------------
-Exact normalization groups     : 56
-Names in GP mapping            : 773
+Exact normalization groups     : 0
+Names in GP mapping            : 716
 
 Manual Homologation
 -------------------
@@ -25,7 +25,7 @@ Approved homologations         : 380
 
 Graph Analysis
 --------------
-Connected components           : 344
+Connected components           : 343
 
 Catalogue Changes
 -----------------
